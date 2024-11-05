@@ -28,8 +28,8 @@ connectDB();
 //default route
 //before routes write 
 app.get("/",(req,res)=>{
-res.json("Welcome to DDD University")
-}}
+res.json("Welcome to  Vignan university")
+}
 
 //routes
 const userRoutes = require("./routes/User");
